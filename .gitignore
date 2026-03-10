@@ -1,0 +1,4 @@
+build/
+.cache/
+.arc.toml
+AGENTS.md
